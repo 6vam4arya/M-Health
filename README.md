@@ -1,4 +1,4 @@
-# 🏔️❄️ AMSCares — A Mobile Health Application for AMS Monitoring, Awareness & Preventive Healthcare ❄️🏔️
+# 🏔️❄️ AMSCares - A Mobile Health Application for AMS Monitoring, Awareness & Preventive Healthcare ❄️🏔️
 
 > A holistic and immersive mobile health and wellness companion designed to prevent, assess and manage Acute Mountain Sickness (AMS) through personalized monitoring, location-aware insights, wellness guidance, gamification, emergency support and much more with all wrapped in a fresh, tranquilizing experience that breathes like the soothing mountainy breeze. 🤍🌳
 
@@ -259,7 +259,7 @@ A carefully curated technology ecosystem powering the mobile experience, backend
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" width="68" alt="GitHub"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="68" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="68" alt="Visual Studio Code"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="68" alt="Android Studio"/>
 
