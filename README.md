@@ -18,7 +18,7 @@ The application addresses this requirement through three primary pillars:
 
 Beyond AMS-specific functionality, the application acts as a broader **digital health and wellness companion**, integrating health monitoring, travel history, location-based information, educational content, wellness activities, gamification, emergency assistance and personalized recommendations.
 
-The project involved end-to-end product development, covering:
+The project involved **end-to-end product development**, covering:
 
 - Requirement analysis
 - Product conceptualization
